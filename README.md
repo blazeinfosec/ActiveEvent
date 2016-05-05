@@ -31,7 +31,8 @@ You should see the plugin output:
 
 ```
 [*] ActiveEvent plugin loaded successfully
-[*] - Waiting for scanner finds ...
+[*] - Waiting for scanner findings ...
+
 ```
 
 ## Resources
